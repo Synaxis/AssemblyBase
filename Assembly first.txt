@@ -1,0 +1,28 @@
+                                    X86 Assembly
+Heap
+
+
+Stack
+
+
+Registers -----------------
+                            -------
+                                    =---  32 bit
+                                    =---  64 bit
+                            --------  
+Instructions---------------- 
+
+
+
+
+Heap is an area in memmory desired for manual memmory
+Allocation
+
+-malloc ------------------------         
+                                    ====
+                                        = 
+-calloc ------------------------                                       
+                                        HEAP
+-global ------------------------
+                                        =
+static ------------------------      ==== 
